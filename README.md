@@ -1,1 +1,1 @@
-# ergasies
+# Example of README
